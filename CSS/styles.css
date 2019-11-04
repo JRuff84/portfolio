@@ -1,17 +1,3 @@
-.img-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}
-
-.margins {
-  margin-bottom: 10px;
-}
-
-.bottom-margin {
-  margin-bottom: 10px;
-}
 
 img .imgsmall {
   display: block;
@@ -29,4 +15,30 @@ img {
   margin-right: auto;
   max-width: 100%;
   border-radius: 6px;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.margins {
+  margin-bottom: 10px;
+}
+
+.bottom-margin {
+  margin-bottom: 10px;
+}
+
+.floatleft {
+  float: left;
+  max-width: 150px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.justify p {
+  text-align: justify;
 }
